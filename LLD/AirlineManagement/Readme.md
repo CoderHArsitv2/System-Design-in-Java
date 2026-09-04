@@ -20,7 +20,7 @@ A Java-based **Low-Level Design (LLD)** implementation of an Airline Management 
 
 ## Class Diagram
 
-![Class Diagram](ClassDiagram/class-diagram.png)
+![Class Diagram](ClassDiagram/uml_diagram.png)
 
 ## Project Structure
 
